@@ -15,3 +15,8 @@
     background-color: #eaf2ff; /* Change background color for user messages 
     color: #007bff; /* Change text color for user messages 
 } */
+
+/* Make chat message boxes more round */
+/* .vfrc-message {
+    border-radius: 20px;
+} */
